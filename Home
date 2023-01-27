@@ -2,6 +2,7 @@
 <html>
   <head>
     <title>YARUMO BOX</title>
+    <link rel="stylesheet" href="estilos.css">
   </head>
   <body>
     <h1>Bienvenido a YARUMO BOX</h1>
