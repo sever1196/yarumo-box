@@ -5,3 +5,10 @@ body {
 li {
   margin-right: 16px;
 }
+img {
+  width: 800px;
+  margin: 28px 0 0 28px;
+  border: 24px solid white;
+  float: right;
+  box-shadow: 10px 10px 15px #888888;
+}
